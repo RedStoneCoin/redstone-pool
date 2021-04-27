@@ -17,7 +17,7 @@
         "node-telegram-bot-api": "^0.40.0",
         "nodemailer": "2.7.2",
         "nodemailer-sendmail-transport": "*",
-        "redis": "^3.0.2",
+        "redis": "^3.1.1",
         "socket.io": "^2.3.0",
         "time-ago": "*",
         "turtlecoin-cryptonote-util": "git://github.com/turtlecoin/node-cryptonote-util.git",
